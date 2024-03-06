@@ -2,6 +2,8 @@
 def add2_and_print(number):
     result = number + 2
     print("Result - after adding 3:", result)
+    print("Testing Successfull")
+
 
 # Example usage
 number = int(input("Enter a number: "))
